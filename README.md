@@ -8,3 +8,5 @@ You can check the documentation of the api from here:<br>
 **NOTE: it still under development**:
 [Documentation](https://documenter.getpostman.com/view/31966634/2sA3XY7dsm)
 
+[Live Site](https://mern-auth-5c55.onrender.com/)
+
