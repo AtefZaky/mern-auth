@@ -2,7 +2,12 @@
 
 ## Overview
 
-This project is a MERN stack web app for authenticating the user and authorize them useing JWT tokens.
+This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack.
+It includes authentication features that allow users to sign up, sign in, and sign out, and provides access to protected routes only for authenticated users.
+
+The front-end of the application is built with React and uses React Router for client-side routing.
+The back-end is built with Node.js and Express, and uses MongoDB as the database.
+Authentication is implemented using JSON Web Tokens (JWT).
 
 You can check the documentation of the api from here:<br>
 **NOTE: it still under development**:
